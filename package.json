@@ -1,0 +1,9 @@
+{
+  "name": "graphql2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jahskee/graphql2.git",
+  "author": "jahskee <jahskee@yahoo.com>",
+  "license": "MIT",
+  "private": true
+}
